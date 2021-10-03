@@ -9,4 +9,9 @@ public class Practice {
 		System.out.println("hello");
 	}
 
+	@Test
+	public void methodTwo() {
+		System.out.println("new things are added in the commit");
+	}
+	
 }
